@@ -1,20 +1,21 @@
 # Hotel Booking System
 
 A full stack hotel booking web application built using a client-server architecture.
+## Tech Stack
+
+- Frontend: React
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Architecture: Client-Server (REST API)
 
 ## Features
 
-- Responsive user interface for browsing and booking rooms
-- Backend APIs to handle reservations, user data, and business logic
-- Client-server communication using RESTful endpoints
-- Data validation and session management
+- Room availability management
+- Booking creation and cancellation
+- Customer data management
+- RESTful API integration
+- MongoDB-based data persistence
 
-## Tech Stack
-
-- Frontend: JavaScript / React (if applicable)
-- Backend: Node.js / Express (or similar)
-- Database: (if used) SQL / NoSQL
-- Deployment: (mention if deployed)
 
 ## Project Structure
 
